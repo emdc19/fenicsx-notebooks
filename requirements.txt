@@ -1,0 +1,5 @@
+dolfinx==0.8.0
+mpi4py
+phasefieldx
+matplotlib
+numpy
